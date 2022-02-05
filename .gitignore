@@ -1,0 +1,19 @@
+.DS_Store
+        README.md
+        assets/
+        components/
+        lib/
+        next-env.d.ts
+        next.config.js
+        package.json
+        pages/
+        postcss.config.js
+        prettier.config.js
+        public/
+        static/
+        studio/
+        styles/
+        tailwind.config.js
+        tsconfig.json
+        with-tailwindcss-app/
+        yarn.lock
